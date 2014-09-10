@@ -2,6 +2,9 @@
   "name": "ring.js",
   "repo": "ZECTBynmo/ring.js",
   "version": "2.0.1",
+  "dependencies": {
+    "components/underscore": "*"
+  },
   "description": "ring.js component",
   "keywords": [
     "ring.js",
